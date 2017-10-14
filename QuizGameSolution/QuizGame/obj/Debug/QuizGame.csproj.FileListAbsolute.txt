@@ -1,0 +1,6 @@
+c:\users\xander\documents\visual studio 2017\Projects\QuizGameSolution\QuizGame\obj\Debug\QuizGame.csprojResolveAssemblyReference.cache
+c:\users\xander\documents\visual studio 2017\Projects\QuizGameSolution\QuizGame\bin\Debug\QuizGame.exe.config
+c:\users\xander\documents\visual studio 2017\Projects\QuizGameSolution\QuizGame\bin\Debug\QuizGame.exe
+c:\users\xander\documents\visual studio 2017\Projects\QuizGameSolution\QuizGame\bin\Debug\QuizGame.pdb
+c:\users\xander\documents\visual studio 2017\Projects\QuizGameSolution\QuizGame\obj\Debug\QuizGame.exe
+c:\users\xander\documents\visual studio 2017\Projects\QuizGameSolution\QuizGame\obj\Debug\QuizGame.pdb
